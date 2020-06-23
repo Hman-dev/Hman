@@ -1,7 +1,6 @@
-Le but de cet exercice est très simple !
+Objectif :
+Structurer un document html par les balises sÃ©mantiques html5 : header , nav , section, article et  footer.
 
-A vous d'écrire le code de la page HTML pour atteindre un résultat le plus proche possible du rendu présent dans le fichier result.png
-
-Vous ferez à la fois le code HTML (très simple, vous pouvez y arriver en n'utilisant que 4 balises différentes) ainsi que le code CSS nécessaire. Ce CSS, vous le placerez dans la balise <style> déjà présente dans le code de la page exercice.html
-
-Bon courage !
+Travail Ã  faire :
+RÃ©aliser une page en utilisant les balises de structure html5 (header , nav , section, article footerâ€¦). Le rÃ©sultat doit Ãªtre le plus proche possible de l'image contenue dans le fichier resultat.png
+Vous n'aurez Ã  utiliser que du HTML et aucun code CSS
